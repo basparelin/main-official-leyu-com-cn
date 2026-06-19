@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basparelin.github.io/main-official-leyu-com-cn/sitemap.xml
